@@ -1,23 +1,37 @@
-Edit [10/5/2016 20:00] K
+Edit [10/7/2016 01:00] K
 
 ****************************************************************
 ****************************************************************
 
-	Changelog 56
-
+	Changelog 56.1
+	
 ****************************************************************
 ****************************************************************
 
-<<<<<<< HEAD
-=======
+[56.1 10/7/2016]
+Sync & Distribution
+	Dumped batches and installer again for easier file management.
+		Resources not populating all install modes.
+
+Change - Survival
+	Faction assignment to prevent friendly wave spawns
+		Kymon, user6 -> Outlaws
+		DeathVigil, user8 -> Undead
+
+Fixed - Illusionist
+	Changeling Pet
+		Missing database/records/creatures/enemies/dd_anim_changeling.dbr
+	My Reflection
+		Missing item entries for appearance
+		
 [56 10/5/2016]
 Updates
 	Omega Quest v0.3
 		Still no hero soul drops		
 	Grim Dawn: Eternal (Survival) v0.977
 		Custom DAIL faction script changes maintained
+		Test play good
 		
->>>>>>> 1545e215ea30178b64a89e6976f14c0d53aaf106
 [56 9/30 20:00]
 Clean-up cont. pt2 (where is this coming from?)
 	Frost Knight pet malfunction
